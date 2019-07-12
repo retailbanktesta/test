@@ -3,7 +3,7 @@
 # set environment configurations
 echo "hello world"
 
-cat > shit.conf << EOF
+cat > test.conf << EOF
 key="VALUE"
 EOF
 
